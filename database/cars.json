@@ -1,0 +1,23 @@
+[
+  {
+    "id": "40b1a114-5912-45b7-a902-bfcc95a11d0d",
+    "name": "V90",
+    "releaseYear": 2019,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "f96cb1b0-4e96-425c-9ed0-9b013938ab1d",
+    "name": "XC90",
+    "releaseYear": 2019,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "391eff6b-19ee-47dc-86a9-e76b8371f13f",
+    "name": "911",
+    "releaseYear": 2019,
+    "available": true,
+    "gasAvailable": true
+  }
+]
